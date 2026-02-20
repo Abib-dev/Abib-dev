@@ -1,6 +1,11 @@
-# 👋 El Habib  
+# 💎 El Habib
 
-### Backend Engineer | PHP Ecosystem | Scalable Web Systems  
+### Full-stack Engineer | PHP Ecosystem | Scalable Web Systems
+
+---
+
+Welcome to my repository! Here you'll find **production-ready backend modules, reusable components, and projects designed for scalability and clarity**.  
+
 ---
 
 ## 🚀 Professional Summary
@@ -60,6 +65,9 @@ You will find:
   </a>
   <a href="https://abib-44.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abib-44">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile Badge" />
   </a>
 </p>
 
