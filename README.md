@@ -43,20 +43,6 @@ My focus is not just writing code — it is designing systems that survive real 
 
 ---
 
-## 📦 What You Can Reuse
-
-This profile is not just a portfolio showcase.
-
-You will find:
-
-- Internal tools extracted from production contexts  
-- Independent modules ready to integrate as standalone bricks  
-- Backend utilities designed for extensibility
-
-💡 **Perfect for Home Lab projects:** integrate these modules directly into your own projects to accelerate learning and practical experience.
-
----
-
 ## 📫 Contact
 
 <p align="center">
@@ -70,11 +56,3 @@ You will find:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile Badge" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-If you find something useful, consider starring a repository.
-
-</div>
